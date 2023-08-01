@@ -1,0 +1,208 @@
+{
+"categories": [
+    {"id": 1, "title": "Fridges"},
+    {"id": 2, "title": "Kettles"},
+    {"id": 3, "title": "Televisions"}
+],
+
+"products": [
+    
+            {"id": 1, 
+            "catId": 1, 
+            "title": "Beko White Fridge Freezer",
+            "productCode": "BFFD3577",
+            "image": "1.jpeg",
+            "price": 579,
+            "sku": "577318",
+            "description": "The Beko BFFD3577 Integrated Tall Freezer has a 220-litre capacity that's",
+            "specs": {"dimensions": "177.5 * 54 * 54.5cm (H * W * D)", "capacity": "220 litres"},
+            "features": ["No need to defrost with frost free technology", "Suitable for outbuildings"],
+            "stock": 20
+    },
+    {
+        "id": 2,
+         "catId":1,
+          "title": "Essentials Undercounter Fridges Silver",
+          "productCode": "CUL55520",
+          "image": "2.jpg",
+          "price": 169,
+          "sku": "287494",
+          "description": "Keep your food tasting great in the Essentials CUL55520 Undercounter",
+          "specs": {"dimensions": "84.5 * 55.3 * 58.4 cm (H * W * D)", "capacity": "131 litres"},
+          "stock": 0
+    },
+
+    {
+        "id": 3,
+         "catId":1,
+          "title": "Kenwood HTLD60x20 Tall Fridge",
+          "productCode": "KTLD60X20",
+          "image": "3.jpeg",
+          "price": 449,
+          "sku": "287103",
+          "description": "Attractive design\n\nThe Kenwood KTLD60X20 Tall Fridge is spacious and practical with a sleek and",
+          "specs": {"dimensions": "185.5 * 59.5 * 71.2 cm (H * W * D)", "capacity": "370 litres"},
+          "features": ["Water dispenser (no plumbing required]", "Food freshness feature to keep your fruit and veg fresh"],
+          "stock": 10
+    },
+
+    {
+        "id": 4,
+         "catId":1,
+          "title": "BEKO BLSSD3577 Integrated Tall Fridge",
+          "productCode": "BLSD3577",
+          "image": "4.jpeg",
+          "price": 449,
+          "sku": "784324",
+          "description": "Keep your food tasting great in 0 Undercounter",
+          "specs": {"dimensions": "84.5 * 55.3 * 58.4 cm (H * W * D)", "capacity": "131 litres"},
+          "features": ["Water dispenser <b>(no plumbing required]</b> ","<b>Food freshness feature to keep your fruit and veg fresh</b>"],
+          "stock": 0
+    },
+
+    {
+        "id": 5,
+         "catId":1,
+          "title": "ZANUSSI MultiFlow ZRME38FW2 Tall Fridge White",
+          "productCode": "ZRME38FW2",
+          "image": "5.jpeg",
+          "price": 554,
+          "sku": "670811",
+          "description": "MultiFlow technology\n\n The Zanussi MultiFlow ZRME38FW2 Tall Fridge uses MultiFlow technology to keep your food at its very best. It keeps the temperature stable, with cool air reaching every part of the fridge.\n\nThat means your food would last longer and stay fresh at all time ",
+          "specs": {"dimensions": "186 * 59.5 * 64.5 cm (H * W * D)", "capacity": "380 litres"},
+          "features": ["Food freshness feature to keep your fruit annd veg fresh", "Fast chill rapidly lowers the temperature inside the fridge", "Auto defrost"],
+          "stock": 5
+    },
+
+    {"id": 6, 
+    "catId": 2, 
+    "title": "Binatone 2 Litres (CEJ-2005) Electric Jug - Black",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k1.jpg",
+    "price": 39,
+    "sku": "BI681HL1ISXYSNAFAMZ",
+    "description": "The Binatone High-Speed Electric Kettle CEJ-2005 offers a range of features designed to make boiling water quick, convenient, and safe." ,
+    "specs": {"dimensions": "Product Line: Binatone, Model: CEJ-2005,Weight (kg): 2, Color: BLACK, Area of Use: Dining Room|Kitchen|Home Office"},
+    "features": ["High Speed ​​Electric Kettle CEJ-2005", "Colour: Black", "Capacity: 2 liters", "Auto switch off", "Dry boil safety protection", "Removable fine mesh filter", "On/Off switch with a light indication", "Power: 1850-2200W"],
+    "stock": 5
+},
+    
+{"id": 7, 
+    "catId": 2, 
+    "title": "Maimeite 1.8L Simple And Stylish Electric Kettle - Black",
+    "productCode": "32LM6370PLA",
+    "image": "k2.jpg",
+    "price": 50,
+    "sku": "MA566HA34CLOKNAFAMZ",
+    "description": "Maimeite Electric Kettle is stylish, easy to use and durable.Made of stainless steel, the Maimeite Electric Kettle is sturdy and features a flat heating element that boils water quickly and is easy to clean.This electric kettle with 1.8L capacity is stylish yet simple. perfect for every kitchen with its stainless steel body, you can be sure to have access to boiled water every time Grab this deal and more at unbeatable price.  Highlight element water level indicator and filter Automatic switch off Boil dry protection Overheating protection Body.Two metal controllers, double safety protection for dry burning.A steam switch that automatically shuts off after the water is boiled.",
+    "specs": {"dimensions": "Product Line: Maimeite Official Store, Model: DRSH-black, Weight (kg): 0.7, Color: Black, Main Material: PVC, Shop Type: Our Store"},
+    "features": ["Cordless Auto Shutof ", "Fast Boil", "Advantage: Over heat Protection", "Under pan Heating", "Material: Stainless Steel"],
+    "stock": 15
+},
+
+{"id": 8, 
+    "catId": 2, 
+    "title": "3L Whistle Stainless Steel Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k3.jpg",
+    "price": 89,
+    "sku": "GE779HL4P20I6NAFAMZ",
+    "description": "Whistling Kettle is very efficient and easy to use. It suitable for for boiling water and making tea for which it is also know as a Tea Kettle. ",
+    "specs": {"dimensions": "Product Line: kitchenwares, Model: N/A, Weight (kg): 0.9, Color: NA, Main Material: Stainless Steel, Shop Type: Our Store"},
+    "features": ["Whistling Kettle is very efficient and easy to use. It suitable for for boiling water and making tea for which it is also know as a Tea Kettle.", "The sprout will whistle once boiled.", "Rust proof.", "Light weight and easy to use." , "Non corrosive stainless steel quality."],
+    "stock": 10
+},
+
+{"id": 9, 
+    "catId": 2, 
+    "title": "Binatone 1.7 Litres (CEJ-1799DW) Deluxe Thermo Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k4.jpg",
+    "price": 189,
+    "sku": "BI681HL0LQANWNAFAMZ",
+    "description": "Binatone kettles are stylish, easy-to-use and durable. This premium range of appliances are available in different sizes and are all pocket-friendly.",
+    "specs": {"dimensions": "Product Line: Global Appliances NIG Limited, Model: CEJ-1799, Weight (kg): 2, Color: Gold, Area of Use: Dining Room|Kitchen|Home Office, Shop Type: Our Store"},
+    "features": ["1.7 litres High-Speed Kettle", "Double Wall - Cool Touch body", "Seamless interior safety and for ease of cleaning ", "Food grade 304 Stainless Steel interior", "Concealed heating element", "Auto shut off & Boil dry protection", "Stainless Steel Filter", "On/Off switch with indicator light", "Voltage: 220-240 50/60Hz", "Power: 1800-2000W"],
+    "stock": 5
+},
+
+{"id": 10, 
+    "catId": 2, 
+    "title": "iYOWEI 1.8 Liters 1500W Glass Electric Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k5.jpg",
+    "price": 215,
+    "sku": " BR768HA495XV2NAFAMZ",
+    "description": "Fast Boil with 1500 Watts. This electric kettle boils up to 1 liter of water faster than a microwave and safer than a stovetop kettle. Make a quick, hot cup of tea or French press coffee anytime without the long wait — perfect for hectic mornings",
+    "specs": {"dimensions": "Product Line: iYOWEI, Model: IYW-RSH-B1, Production Country: China, Size (L x W x H cm): 26*16*12(cm), Weight (kg): 300, Color: beige, Main Material: plastic, Shop Type: Our Store"},
+    "features": ["Fast Boil with 1500 Watts", "Durable Glass Carafe with BPA-free Interior", "Convenient Cord-Free Serving", "Space-Saving Design", "Easy to Use"],
+    "stock": 5
+},
+
+    {"id": 11, 
+    "catId": 3, 
+    "title": "SAMSUNG UE50TU7020KXXU 50\" Smart 4k Ultra HD LED TV delivers pure colors, sharp contrast, and brilliant brightness. HDR displays",
+    "productCode": "UE50TU7020KXXU",
+    "image": "tv1.jpg",
+    "price": 389,
+    "sku": "670811",
+    "description": "Glorious colour\n\nDon\\'t settle for anything less than <br> crystal clear colour</br>. The Samsung UE50TU7020KXXU 50\" smart 4k ultra HD HDR LED TV" ,
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D) -TV: 643.7 x 1115.8 x 59.5mm (H * W * D) -Boxed: 780 x 1264 x 150 mm (H * W * D) "},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for the best picture & targeted sound", "Picture Quality : 2000 PQI", "HDR : HDR10+ / Hybrid Log-Gamma (HLG)"],
+    "stock": 5
+},
+    
+{"id": 12, 
+    "catId": 3, 
+    "title": "SONY 32LM6370PLA 32\" Smart Full HD HDR LED TV",
+    "productCode": "32LM6370PLA",
+    "image": "tv2.jpg",
+    "price": 249,
+    "sku": "657462",
+    "description": "Give your favourite movies and box sets a new lease of life with the LG 32LM6370PLA 32\" Smart Full HD HDR LED TV",
+    "specs": {"dimensions": "TV with stand: 464 * 736 * 180 mm (H * W * D)"},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for"],
+    "stock": 15
+},
+
+{"id": 13, 
+    "catId": 3, 
+    "title": "LG UE50TU7020KXXU 55\" Smart 4k Ultra HD LED TV",
+    "productCode": "UE50TU7020KXXU",
+    "image": "tv3.jpg",
+    "price": 389,
+    "sku": "670811",
+    "description": "Glorious colour\n\nDon\\'t settle for anythingless than crystal clear colour. The",
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D)"},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for"],
+    "stock": 10
+},
+
+{"id": 14, 
+    "catId": 3, 
+    "title": "SAMSUNG UE50TU7020KXXU 55\" Smart 4k Ultra HD LED TV",
+    "productCode": "UE50TU7020KXXU",
+    "image": "tv4.jpg",
+    "price": 389,
+    "sku": "670811",
+    "description": "Glorious colour\n\nDon\\'t settle for anythingless than crystal clear colour. The",
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D)"},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for"],
+    "stock": 5
+},
+
+{"id": 15, 
+    "catId": 3, 
+    "title": "SAMSUNG UE50TU7020KXXU 50\" Smart 4k Ultra HD LED TV",
+    "productCode": "UE50TU7020KXXU",
+    "image": "tv5.jpg",
+    "price": 389,
+    "sku": "670811",
+    "description": "Glorious colour\n\nDon\\'t settle for anythingless than crystal clear colour. The",
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D)"},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for"],
+    "stock": 5
+}
+    
+]
+}
